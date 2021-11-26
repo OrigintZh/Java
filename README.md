@@ -1,4 +1,4 @@
-# Java
+# Java Caculator 
 * Java_practice
 ```java
 package wz13;
