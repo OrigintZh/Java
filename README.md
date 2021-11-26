@@ -1,5 +1,5 @@
 # Java Caculator 
-* Java_practice
+* Java编写的简易计算器
 ```java
 package wz13;
 
